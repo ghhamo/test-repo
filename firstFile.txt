@@ -4,7 +4,7 @@ third
 fourth
 fifth
 sixth
-seventh
-eighth
+seventh seventh
+eighth eighth
 ninth ninth
 tenth tenth
